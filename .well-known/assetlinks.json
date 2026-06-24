@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.hoonsunglang.stockdashboard",
+    "sha256_cert_fingerprints": ["BD:E1:4D:BF:39:AB:4B:73:30:56:FD:57:0B:A4:D8:10:B7:98:E7:97:56:0D:BC:71:0C:FF:07:86:9B:F0:BF:7F"]
+  }
+}]
